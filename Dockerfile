@@ -1,5 +1,5 @@
-FROM debian:jessie
-MAINTAINER Damien Debin <damien.debin@smartapps.fr>
+FROM ubuntu:xenial
+MAINTAINER mgillot@optimy.com
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV LC_ALL en_US.UTF-8

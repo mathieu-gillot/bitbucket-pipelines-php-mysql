@@ -2,7 +2,7 @@
 
 # bitbucket-pipelines-php-mysql
 
-[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Debian/Jessie](https://www.debian.org/releases/jessie/) with [PHP](http://php.net/)/[MySQL](https://www.mysql.com) (and more !)
+[Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) [Docker](https://www.docker.com/) image based on [Ubuntu/Xenial](http://releases.ubuntu.com/16.04/) with [PHP](http://php.net/)/[MySQL](https://www.mysql.com) (and more !)
 
 More help in Bitbucket's [Confluence](https://confluence.atlassian.com/bitbucket/bitbucket-pipelines-beta-792496469.html)
 
